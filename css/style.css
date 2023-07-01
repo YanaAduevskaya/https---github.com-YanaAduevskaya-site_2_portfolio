@@ -60,7 +60,6 @@ img {
 .navbar__flex-menu {
     display: flex;
     list-style: none;
-    color: #292929;
     font-size: 20px;
     font-family: 'Lato Medium', sans-serif;
     gap: 72px;
@@ -70,6 +69,7 @@ img {
 }
 .navbar__flex-menu a {
     text-decoration: none;
+    color: #292929;
 }
 .navbar__flex-menu li:hover {
     opacity: 0.5;
